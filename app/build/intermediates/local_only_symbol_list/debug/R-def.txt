@@ -7,6 +7,8 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable background_inicio
+drawable fondonav
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable nintendo_bayonetta2
@@ -27,6 +29,8 @@ drawable playstation_minecraftlegends
 drawable playstation_nba2k23
 drawable playstation_pga2k23
 drawable playstation_stray
+drawable registro__background
+drawable wellplayedlogo
 drawable xbox_ageofempire2
 drawable xbox_crusader_kings3
 drawable xbox_dyinglight2

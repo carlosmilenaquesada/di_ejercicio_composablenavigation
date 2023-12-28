@@ -1,4 +1,4 @@
-#Wed Dec 27 16:49:10 CET 2023
+#Thu Dec 28 13:24:05 CET 2023
 base.0=C\:\\Users\\Administrador\\Desktop\\DI\\di_composablenavigation\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Administrador\\Desktop\\DI\\di_composablenavigation\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Administrador\\Desktop\\DI\\di_composablenavigation\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex

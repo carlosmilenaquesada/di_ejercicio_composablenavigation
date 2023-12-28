@@ -75,6 +75,8 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable background_inicio
+drawable fondonav
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -114,6 +116,8 @@ drawable playstation_minecraftlegends
 drawable playstation_nba2k23
 drawable playstation_pga2k23
 drawable playstation_stray
+drawable registro__background
+drawable wellplayedlogo
 drawable xbox_ageofempire2
 drawable xbox_crusader_kings3
 drawable xbox_dyinglight2
